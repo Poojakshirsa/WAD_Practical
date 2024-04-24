@@ -1,9 +1,0 @@
-steps add file on git.
-
-1.git clone https://github.com/Poojakshirsa/WAD_Practical.git
-2.cd WAD-Practical
-3.git status
-4. git add .
-5. git status
-6.git commit -m 'message'
-7. git push https://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@github.com/Poojakshirsa/WAD_Practical
